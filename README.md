@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gggegwa
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 Python
 - 💞️ I’m looking to collaborate on projects relating to big data analysis.
 - 📫 How to reach me georgegichuhi25@gmail.com
 
